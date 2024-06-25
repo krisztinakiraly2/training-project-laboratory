@@ -1,0 +1,13 @@
+BorderX	int16_t [4]	0x200001b6 <GameWindow+178>	
+	BorderX[0]	int16_t	30
+	BorderX[1]	int16_t	75
+	BorderX[2]	int16_t	120
+	BorderX[3]	int16_t	165
+	BorderX[4]	int16_t	210	
+
+BorderY	int16_t [4]	0x200001be <GameWindow+186>	
+	BorderY[0]	int16_t	270	
+	BorderY[1]	int16_t	225
+	BorderY[2]	int16_t	180
+	BorderY[3]	int16_t	135
+	BorderY[4]	int16_t	90
